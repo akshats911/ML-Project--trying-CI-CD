@@ -1,2 +1,2 @@
 # ML-Project--trying-CI-CD
-Understanding CI/CD pipelining with a generic ML project
+Understanding modular coding and CI/CD pipelining in ML with a generic ML project
